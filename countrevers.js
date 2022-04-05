@@ -1,4 +1,4 @@
-const deadline = new Date(2022, 04, 25);
+const deadline = new Date(2022, 05, 25);
 
 let m = setInterval(function () {
   let k = new Date();

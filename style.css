@@ -21,10 +21,8 @@ body {
   font-size: 18pt;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
-  text-decoration: dotted;
   z-index: 2;
   margin: 5%;
-  user-select: none;
 }
 
 #time {
@@ -33,7 +31,6 @@ body {
   height: 180px;
   width: 400px;
   z-index: 3;
-
   top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
